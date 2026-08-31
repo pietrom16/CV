@@ -1,0 +1,248 @@
+#+TITLE: Pietro Mele -- Curriculum Vitae
+#+LANGUAGE: en
+#+OPTIONS: toc:nil num:nil author:nil date:nil
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [10pt,a4paper]
+#+LATEX_HEADER: \usepackage[margin=1.5cm]{geometry}
+#+LATEX_HEADER: \usepackage{enumitem}
+#+LATEX_HEADER: \usepackage[none]{hyphenat}
+#+LATEX_HEADER: \setlist{nosep,leftmargin=*}
+#+LATEX_HEADER: \usepackage{parskip}
+#+LATEX_HEADER: \setlength{\parindent}{0pt}
+
+
+#+BEGIN_CENTER
+*Senior C++ / Rust / Python Software Engineer*
+
+High-performance software | Scientific computing | AI/ML | R&D
+#+END_CENTER
+
+Experienced software developer specialising in C++, Rust and Python, with a focus on technical and scientific applications and research and development. Experience includes high-throughput data processing, computational fluid dynamics, magnetic resonance imaging, defence and aerospace, autonomous systems, medical technology, nuclear fusion robotics, simulation, and AI/ML.
+Open to both permanent and contract roles.
+
+#+BEGIN_CENTER
+[[mailto:pietrom16@gmail.com][pietrom16@gmail.com]] | +44 7526 683493 | Oxfordshire, UK
+
+[[https://sites.google.com/site/pietrom16][Personal website]] | [[https://github.com/pietrom16][GitHub]] | GitLab
+
+UK permanent resident
+#+END_CENTER
+
+* Technical Skills
+
+*Programming languages:* C++, Rust, Python
+
+*Libraries:* STL, Boost, Qt, ArrayFire, Eigen, POCO, OpenGL
+
+*Programming style:* Highly modular, Agile, Fault Tolerant, High Performance, UML Modelling
+
+*Operating systems:* Linux, Windows, macOS
+
+*Database:* SQL, PostgreSQL, MySQL, SQLite, Oracle
+
+*Real-time:* VxWorks/Tornado
+
+*AI and machine learning:* TensorFlow, PyTorch, neural networks, deep learning, spiking neural networks, genetic algorithms
+
+*GPU and parallel computing:* SYCL, OpenCL, OpenMP, CUDA, GPGPU
+
+* Technologies
+
+Numerical methods, simulation, computational fluid dynamics, magnetic resonance imaging, image processing, wavelets, neural networks, deep learning, spiking neural networks, modular neural networks, autonomous driving, high-performance computing, distributed systems, fault-tolerant systems.
+
+* Professional Experience – Contractor
+
+*Randstad – Client: Siemens Healthineers AG*
+
+November 2024 – present
+
+Refactoring and upgrade of MRI software control tool from C++98 to C++20, removal of Qt dependencies, XML file management.
+
+*ALTEN Ltd – UK (ALTEN Group)*
+
+May 2023 – October 2024
+
+- Raymarine Plc.: testing and debugging of marine navigation systems. Interfacing with developers and onboard testers to identify and fix software issues (C++17, Qt, Linux).
+- Thales UK Plc.: development of software and build utilities for the periscope of the next generation of Royal Navy submarines.
+
+*CCFE / RACE*
+
+August 2022 – February 2023
+
+Development of the new version of the software to control robotic arms operating in the JET nuclear fusion reactor, for dismantling operations. Refactoring existing tools and developing new ones. Optimised SSH data transmission by a factor of 30 (C++17, Qt, Electron).
+
+*ST Engineering Antycip Ltd*
+
+January 2022 – July 2022
+
+Software development and testing for the 3D modules of the company's F-35 flight simulator for Royal Air Force training.
+
+*Airbus Defence and Space / Airbus SE*
+
+September 2021 – December 2021
+
+Development of a software module for satellite communication infrastructure.
+
+*Refinitiv / LSEG Plc*
+
+December 2020 – May 2021
+
+Customisation of an internal tool for the New Zealand stock market.
+
+*OxSonics Ltd*
+
+April 2019 – April 2020
+
+Software development supporting research into an innovative anti-cancer therapy and control of the associated hardware. Contributed to version 1 of the Passive Acoustic Mapping software module and to the design of version 2 (C++11).
+
+*Jaguar Land Rover Automotive Plc*
+
+November 2017 – March 2019
+
+Research and development in the autonomous driving department. Optimised learning of the onboard neural network using different training approaches and tested alternative learning algorithms. Proposed and developed a modular architecture integrating different models, including convolutional and spiking neural networks, for static and time-dependent data (C++, Linux, Windows, NVIDIA, TensorFlow).
+
+*Oxford Nano Imaging Ltd*
+
+April 2017 – July 2017
+
+Produced customer and internal UML documentation for software driving a super-resolution microscope. Developed GUI extensions (C++11, Qt, Doxygen).
+
+* Professional Experience – Permanent
+
+*Insitu Mission Systems Inc. / Boeing Defence UK*
+
+November 2015 – March 2017
+
+Developed software related to the TacitView tool for acquisition, management and interpretation of aerial/drone photographs and video for defence and commercial customers (C++, Windows, Linux).
+
+Reviewed and evaluated deep learning and neural network tools and selected one for future company projects. Developed feature extraction from video data and correlation with satellite images. Written unit-test code for submodules and generated test data for simulation.
+
+*Sophos Ltd*
+
+February 2015 – July 2015
+
+Identified customer issues and implemented bug fixes for the company's antivirus product (C++, Windows).
+
+*Caterham F1 Team*
+
+January 2014 – November 2014
+
+Extended an internal software tool to simulate car behaviour on the circuit using aerodynamic and structural factors. Replaced core maths libraries with open-source libraries, allowing part of the workload to move from the cluster to workstation GPUs. Made code dynamically select numerical methods according to context to improve performance. Ported projects to Linux to reduce software licence costs and replaced Windows threads with C++11 threads (C++, Windows 7, Linux/CentOS, GNU Scientific Library, ViennaCL).
+
+*Marussia F1 Team*
+
+October 2011 – November 2013
+
+Main C++ software developer, developing core applications, utilities and libraries used by engineers and designers. Designed and built a tool to automatically generate script files from CFD cluster data and send results to a database. Introduced unit testing using Google Test. Refactored software tied to Windows XP to run on Windows 7 and Linux.
+
+*Eykona Ltd*
+
+September 2010 – February 2011
+
+Worked on the Qt user interface for a stereoscopic diagnostic device measuring the evolution of superficial wounds quantitatively. R&D project financed by Oxford University (C++, OpenGL, Qt, multi-platform).
+
+*Self-employed*
+
+March 2010 – October 2011
+
+Developed tools for personal projects, including a wrapper class for Boost shared memory and memory-mapped files, providing a unified higher-level interface. Designed a modular, fault-tolerant architecture for future projects.
+
+*Williams Grand Prix Engineering Ltd*
+
+September 2009 – February 2010
+
+Developed software utilities for car design and testing (C++, Boost, GAlib, Linux). Developed test code to select genetic algorithms for car configuration optimisation, radial basis functions for wind-tunnel data interpolation, methods for selecting sample points in n-dimensional spaces, a matrix wrapper interfacing Boost matrix classes with C code, and C-Shell scripts controlling simulations.
+
+*ANSYS Inc.*
+
+March 2008 – July 2009
+
+Software development for CAD/CAE/CFD products (C++, OpenGL, Qt, multi-platform). Developed a graphical testing tool with Qt for a low-level OpenGL library. Converted core libraries to use OpenGL Vertex Buffer Objects with performance testing. Developed utility modules in the main project.
+
+
+*Roles in Italy*
+
+January 1997 – January 2008
+
+- Siemens S.p.A.: Software development for Base Transceiver Station simulator in the GSM network.
+- AISoftw@re S.p.A.: Software development for Magnetic Resonance Imaging and Computed Tomography devices. Image processing with Haar wavelets. DICOM data export.
+- ENEL S.p.A.: Extended the Unified Clients Oracle Database for data concerning 30 million customers.
+- LABEN S.p.A. / Alenia group: Software for the International Space Station, including a real-time logger managing messages from different sub-units (VxWorks, Solaris).
+- Developed software for Gucci and Core Labs using neural networks and wavelets to classify soil and leather textures with algorithms adapted to different training sets.
+- Developed GSM-network software for Italtel and Siemens for automatic black-box testing of BSD units.
+
+* Lectures
+
+- "Overview of spiking neuron models" – Siemens, 2006
+- "Spiking Neurons and Learning Algorithms" – Research staff, Milano University, 2004
+- "Introduction to Spiking Neurons" – Intelligent Systems course, Milano University, 2004
+- "Introduction to the UML modelling language" – 2002
+- "Modular Neural Networks and their Genetic Development" – Italian National Research Council (CNR), 1998
+
+* Education
+
+*University of Milano – Degree in Computer Science*
+
+Mark: 63/70
+
+Thesis: "Analysis and Development of a Modular Neural Network based on Mixture of Experts, and Comparison with Boosting Algorithms."
+
+*High School – Scientific Lyceum*
+
+Mark: 54/60
+
+*Italian Air Force – Flight course*
+
+SIAI-Marchetti S208M airplane, 1988.
+
+* Languages
+
+Italian: first language
+
+English: fluent
+
+* Personal Projects
+
+*Phoenix*
+
+Distributed, modular, fault-tolerant project template intended as a generic framework for other projects. Architecture inspired by microkernels at application level.
+
+*Neuro*
+
+- Neuro1: neural network based on the Back-Propagation algorithm.
+- Neuro2: modular neural network based on the Mixture of Experts algorithm, the subject of the university thesis.
+- Neuro3: spiking neuron model.
+- Neuro4: higher-level structures and GPGPU.
+- Neuro5: reimplementation in Rust.
+
+*nLogger*
+
+High-performance C++20 logger providing detailed logs from selected code areas without use of the preprocessor.
+
+*microLog*
+
+Light, compact, fast C++ logger with different minimal log levels for different kinds of logs. Released as open source.
+
+*logviewer*
+
+Utility for displaying log files in real time on the console/browser, with keyword-based highlighting and summarisation. Dynamic log-level threshold providing context to high-level logs. Released as open source.
+
+*DataGUI*
+
+Qt dialog for viewing and modifying data generated by another application, separating a generic program core from its GUI. Released as open source.
+
+*CFD*
+
+At age 17, wrote a simple 2D CFD simulator in Pascal using Euler and potential equations.
+
+
+#+BEGIN_COMMENT - File conversion
+
+|-----------------|-------------------------------------------------------------------------|
+| Org-mode > HTML | ~emacs CV-PietroMele.org --batch -f org-html-export-to-html --kill~     |
+| Org-mode > PDF  | ~emacs CV-PietroMele.org --batch -f org-latex-export-to-pdf --kill~     |
+| Org-mode > HTML | ~pandoc -s CV-PietroMele.org -t html5 -o CV-PietroMele.html~            |
+| Org-mode > PDF  | ~pandoc -H disable_float.tex -s CV-PietroMele.org -o CV-PietroMele.pdf~ |
+
+#+END_COMMENT
+
